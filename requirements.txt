@@ -1,0 +1,13 @@
+# Quantum Lİbraries (for QuantumSolver)
+qiskit>=1.0.0
+qiskit-machine-learning>=0.7.2
+qiskit-aer>=0.14.0
+pylatexenc>=2.10  # Devre çizimleri için
+
+# Classical ML and Data analysis (for ClassicalSolver and DataProfiler)
+scikit-learn>=1.4.0
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Visualization
+matplotlib>=3.8.0
